@@ -219,7 +219,7 @@
         "p_Likud":                { "name": "Likud", "hname": "הליכוד", "group": "Right" },
         "p_Yesh_Atid":            { "name": "Yesh Atid", "hname": "יש עתיד", "group": "Center", "dissolved":  "21/02/2019" },
         "p_Joint_List":           { "name": "Hadash-Taal", "hname": "חד\"ש-תע\"ל", "group": "Arabs", "union_of": [ "p_Joint_List", "p_Taal" ]  },
-        "p_New_Yamin":            { "name": "New Yamin", "hname": "הימין החדש", "group": "Hard Right", "created": "29/12/2018" },
+        "p_New_Yamin":            { "name": "New Right", "hname": "הימין החדש", "group": "Hard Right", "created": "29/12/2018" },
         "p_Right_Union":          { "name": "Right Union", "hname": "איחוד מפלגות הימין", "group": "Hard Right", "union_of": [ "p_Right_Union", "p_National_Union", "p_Otzma" ] },
         "p_Kahol_Lavan":          { "name": "Blue & White", "hname": "כחול-לבן", "group": "Center", "union_of": [ "p_Kahol_Lavan", "p_Telem", "p_Yesh_Atid" ] },
         "p_Labor":                { "name": "Labor", "hname": "העבודה", "group": "Left" }, 
@@ -240,6 +240,19 @@
         "p_Eretz_Hadasha":        { "name": "Eretz Hadasha", "hname": "ארץ חדשה", "group": "Left", "created": "29/12/2018", "dissolved": "21/02/2019"  },
         "p_Yachad":               { "name": "Yachad", "hname": "יחד", "group": "Hard Right" },
         "p_National_Union":       { "name": "National Union", "hname": "האיחוד הלאומי", "group":  "Hard Right", "dissolved": "14/02/2019" }
+      },
+      "coalitions": {
+        "c_likud":                { "name": "Likud", "hname": "הליכוד",
+                                    "parties": [ "p_Likud", "p_New_Yamin", "p_Right_Union", "p_United_Torah_Judaism", "p_Kulanu", "p_Shas", "p_Yisrael_Beitenu",
+                                                 "p_Gesher", "p_Zehut", "p_Magen", "p_Yachad" ] },
+        "c_unity":                { "name": "Unity Government", "hname": "ממשלת אחדות",
+                                    "parties": [ "p_Likud", "p_Kahol_Lavan", "p_Labor", "p_Kulanu", "p_Yisrael_Beitenu", "p_Gesher", "p_Magen" ] },
+        "c_gantz":                { "name": "Blue & White", "hname": "כחול-לבן",
+                                    "parties": [ "p_Joint_List", "p_Kahol_Lavan", "p_Labor", "p_Meretz", "p_United_Torah_Judaism", "p_Kulanu", "p_Shas",
+                                                 "p_Gesher", "p_Zehut" ]  },
+        "c_gantz_no_haredim":     { "name": "Blue & White w/o Haredim", "hname": "כחול-לבן ללא חרדים",
+                                    "parties": [ "p_Joint_List", "p_Kahol_Lavan", "p_Labor", "p_Meretz", "p_Kulanu", 
+                                                 "p_Gesher", "p_Zehut" ]  }
       },
       "polls": [{
         "type": "google-sheets",
