@@ -1,0 +1,116 @@
+id,start_date,num_days,num_polled,poller,publication,p_Likud,p_Habayit_Hayehudi,p_Mahane_Tzioni,p_Yisrael_Beitenu,p_Yesh_Atid,p_Meretz,p_Shas,p_Yishai,p_Yahadut_Hatorah,p_Koolanu,p_Arabs,link,comment
+0,2014-12-16,1,500,Panels,Knesset,22,15,22,9,10,7,4,4,7,10,10,,
+1,2014-12-16,1,505,Dialog,Haaretz,21,16,21,8,11,6,4,3,8,12,10,http://www.haaretz.co.il/news/elections/.premium-1.2514917,
+2,2014-12-17,1,500,Smith,Globes,23,16,23,9,8,6,8,2,7,9,11,,Num Unknown
+3,2014-12-17,1,500,Panels,Maariv,21,16,23,8,10,7,4,4,7,10,10,,
+4,2014-12-19,1,500,Smith,Reshet B,22,13,23,8,8,7,7,6,7,9,10,,Ariel+Yishai
+5,2014-12-22,1,500,Panels,Knesset,21,16,23,7,11,7,5,4,7,9,10,,
+6,2014-12-23,1,500,Dialog,Ch10,21,17,22,9,10,6,4,4,7,9,11,,
+7,2014-12-24,1,500,Sarid,Ch2 Haolam Haboker,22,17,25,10,9,7,4,0,7,7,12,,secc12.pdf
+8,2014-12-25,1,534,Panels,Maariv/Jpost,23,17,24,5,11,7,4,4,7,7,11,,
+9,2014-12-25,1,503,Teleseker,Walla,24,15,23,10,9,6,4,4,5,10,10,,tns-2015-01-various.pdf / secc7.xls
+10,2014-12-24,2,570,Smith,Reshet Bet,23,17,23,8,8,6,8,2.5,7,9,11,,smith-2014-12-24-kol-yisrael.pdf
+11,2014-12-28,1,500,Midgam,Ch2,24,16,24,8,9,5,6,3,7,10,11,,midgam-2014-12-29-mako.pdf midgam-2014-12-28-mako.pdf
+12,2014-12-30,1,500,Panels,Knesset,23,16,24,5,10,8,5,2.5,8,9,12,,
+13,2014-12-30,1,500,Dialog,Ch10,21,17,23,7,9,6,5,4,7,10,11,,
+14,2014-12-31,1,500,Smith,Globes,22,16,24,7,9,7,7,0,7,10,11,,
+15,2015-01-01,1,500,Teleseker,Walla,26,16,23,7,9,7,6,0,7,8,11,,tns-2015-01-various.pdf / secc7.xls
+16,2014-12-31,1,500,Maagar,Nrg/Makor Rishon,23,17,24,7,8,6,6,4,8,8,8,http://www.nrg.co.il/online/1/ART2/667/266.html,
+17,2015-01-01,1,500,Smith,Reshet B,23,16,24,7,9,7,7,3,7,9,11,,smith-2015-01-01-kol-yisrael.pdf
+18,2014-12-31,1,500,Panels,Galei Yisrael,24,16,23,6,10,6,6,0,8,9,12,,panels-2014-12-31-galey-yisrael.pdf
+19,2015-01-04,1,1500,Teleseker,Ch1,25,15,24,7,9,7,6,0,8,8,11,,tns-2015-01-various.pdf / secc7.xls
+20,2015-01-05,1,511,Panels,Knesset,24,15,23,7,12,6,6,3,8,8,11,,panels-2015-01-05-knesset.pdf
+21,2015-01-05,1,513,Dialog,Haaretz,22,16,23,6,12,6,5,4,7,9,10,http://www.haaretz.co.il/news/elections/.premium-1.2532401,
+22,2015-01-07,1,601,Teleseker,Walla,25,15,24,6,9,6,6,0,8,10,11,,tns-2015-01-various.pdf / secc7.xls
+23,2015-01-01,1,511,Panels,Galei Yisrael,24,15,23,7,11,6,6,0,7,9,12,,panels-2015-01-01-galey-yisrael-one-week-old.pdf
+24,2015-01-08,1,500,Smith,Reshet B,24,16,25,7,9,6,7,0,7,8,11,,pl3.pdf
+25,2015-01-10,1,505,Teleseker,Walla,24,15,23,7,10,6,6,0,8,10,11,,tns-2015-01-various.pdf !!== tns-2015-01-11-walla.pdf / secc7.xls
+26,2015-01-12,1,509,Panels,Knesset,23,16,24,7,12,6,6,0,7,9,10,,panels-2015-01-12-knesset.pdf
+27,2015-01-14,1,511,Panels,Maariv,22,17,25,6,11,6,6,5,7,9,11,,panels-2015-01-14-galey-yisrael.pdf  panels-2015-01-14-maariv.pdf
+28,2015-01-14,1,500,Smith,Globes,24,15,25,6,9,6,8,0,7,9,11,,
+29,2015-01-14,1,500,Teleseker,Ch1,25,17,26,5,8,5,6,0,7,9,11,,secc7.xls
+30,2015-01-15,1,500,Midgam,Ch2,23,16,25,7,11,5,7,0,7,8,10,,
+31,2015-01-15,1,500,Dialog,Ch10,20,16,24,5,10,6,6,4,7,10,12,,
+32,2015-01-15,1,500,Teleseker,Walla,24,18,26,5,8,5,7,0,8,8,11,,tns-2015-01-15-walla.pdf secc7.xls
+33,2015-01-15,1,500,Smith,Reshet B,24,16,26,6,8,6,8,0,7,8,11,,pl5.pdf
+34,2015-01-19,1,513,Panels,Knesset,23,16,24,5,11,6,5,4,7,8,11,,
+35,2015-01-20,1,500,Teleseker,Walla,24,16,25,6,9,5,8,0,8,8,11,,tns-2015-01-20-walla.pdf secc7.xls
+36,2015-01-21,1,500,Panels,Maariv,22,15,24,6,11,6,6,4,7,8,11,,
+37,2015-01-21,1,500,Teleseker,Ch1,26,15,24,7,8,5,9,0,8,7,11,,secc7.xls
+38,2015-01-22,1,500,Smith,Reshet B,25,16,25,5,9,5,9,0,7,7,12,,pl7.pdf
+39,2015-01-26,1,500,Midgam,Ch2,23,15,26,7,9,6,7,0,7,8,12,,
+40,2015-01-26,1,500,Panels,Knesset,23,15,25,6,11,6,7,0,7,8,12,,
+41,2015-01-27,1,500,Maagar,Kol Barama,22,16,24,4,11,6,6,4,6,9,12,,
+42,2015-01-27,1,500,Midgam,Ch10,23,16,25,4,10,5,6,4,6,9,12,,
+43,2015-01-28,1,500,Panels,Maariv,25,14,24,5,11,6,7,0,8,8,12,,
+44,2015-01-28,1,600,Teleseker,Ch1,27,14,26,7,8,5,7,0,8,6,12,,secc7.xls
+45,2015-01-28,1,500,Smith,Globes,24,16,25,5,9,5,8,0,8,8,12,,
+46,2015-01-29,1,500,Teleseker,Walla,27,12,26,6,8,4,7,4,7,7,12,,tns-2015-01-29-walla.pdf secc7.xls
+47,2015-01-29,1,500,Smith,Reshet B,26,15,26,5,8,5,9,0,7,7,12,,pl1.pdf
+48,2015-02-01,1,514,Dialog,Haaretz,25,14,23,6,9,5,6,4,8,8,12,http://www.haaretz.co.il/news/elections/.premium-1.2555716,
+49,2015-02-02,1,500,Panels,Knesset,25,13,24,5,11,5,6,4,7,8,12,,
+50,2015-02-01,3,824,202 Strategies,Times of Israel,23,11,27,7,11,4,5,4,7,10,11,http://www.timesofisrael.com/1-in-4-israelis-still-undecided-but-more-of-them-leaning-toward-herzog/,
+51,2015-02-02,2,505,Maagar,Kol Barama,24,14,24,5,11,6,6,4,6,8,12,,maagar-2015-02-02-kol-barama.pdf
+52,2015-02-04,1,500,Teleseker,Walla,26,12,23,7,10,4,7,4,7,8,12,,tns-2015-02-04-walla.pdf secc7.xls
+53,2015-02-04,1,538,Panels,Maariv,26,13,22,5,11,6,6,4,8,7,12,,
+54,2015-02-05,1,500,Mano Geva,Kol Hai,24,12,24,6,10,7,7,4,7,7,12,,
+55,2015-02-04,1,700,Midgam,Yediot,24,12,25,6,11,5,7,4,7,7,12,,midgam-2015-02-04-yediot
+56,2015-02-05,1,500,Smith,Reshet B,26,14,25,5,9,5,9,0,8,7,12,,pl2.pdf
+57,2015-02-05,1,539,Maagar,NRG,25,14,24,4,11,6,6,4,6,8,12,,
+58,2015-02-05,1,500,Teleseker,Ch1,27,11,23,6,11,5,6,4,8,7,12,,secc7.xls
+59,2015-02-08,1,500,Dialog,Ch10,23,14,23,5,10,5,6,5,6,10,13,http://news.nana10.co.il/Article/?ArticleID=1108749,SIZE UNKNOWN
+60,2015-02-09,1,690,Panels,Knesset,23,12,23,5,12,5,7,5,7,9,12,,
+61,2015-02-10,1,600,Teleseker,Ch1,27,11,23,7,10,5,6,4,8,7,12,,secc7.xls
+62,2015-02-11,1,500,Panels,Maariv,24,11,23,6,12,6,6,5,7,7,13,,
+63,2015-02-11,1,500,TRI,,26,11,23,6,9,5,6,6,8,9,11,,
+64,2015-02-11,1,500,Smith,Globes,24,13,24,6,9,5,8,4,7,8,12,,
+65,2015-02-12,1,500,Teleseker,Walla,25,13,23,7,9,5,7,4,7,8,12,,tns-2015-02-12-walla.pdf secc7.xls
+66,2015-02-12,1,500,Smith,Reshet B,25,13,24,5,9,5,8,4,7,7,13,,secc9.pdf / pl4.pdf
+67,2015-02-13,3,700,Midgam,Ch2,24,11,25,7,11,5,6,5,7,7,12,,midgam-2015-02-13-mako.pdf
+68,2015-02-15,1,508,Maagar,Kol Barama,25,12,24,6,11,5,6,4,7,8,12,,pl11.pdf
+69,2015-02-16,1,760,Panels,Knesset,23,12,24,6,12,6,7,4,7,7,12,,
+70,2015-02-16,1,500,TRI,Bizportal,23,14,24,4,12,4,4,5,8,10,12,,
+71,2015-02-18,1,860,Dialog,Ch10,22,13,23,5,12,5,7,4,7,10,12,,
+72,2015-02-19,1,550,Panels,Maariv,22,13,24,5,12,6,7,4,7,8,12,,pl8.pdf
+73,2015-02-18,1,500,Teleseker,Ch1,24,13,24,6,11,4,7,4,7,8,12,,secc7.xls
+74,2015-02-19,1,500,Smith,Reshet B,24,13,24,5,10,5,8,4,7,8,12,,secc10.pdf /pl6.pdf
+75,2015-02-19,1,500,Teleseker,Walla,24,13,23,6,12,4,7,4,7,8,12,,tns-2015-02-19-walla.pdf secc7.xls
+76,2015-02-22,1,500,TRI,Ch10,23,14,25,4,11,6,5,5,7,8,12,,
+77,2015-02-25,1,614,Midgam,Ch2,22,12,24,6,12,6,7,5,7,7,12,,
+78,2015-02-23,1,514,Dialog,Haaretz,23,12,23,6,12,5,7,4,7,9,12,,sec.pdf http://www.haaretz.co.il/news/elections/1.2574287
+79,2015-02-23,1,700,Panels,Knesset,24,11,24,5,12,5,7,4,7,8,13,,pl10.pdf
+80,2015-02-25,1,500,Panels,Maariv,23,12,24,5,12,5,7,4,7,8,13,,
+81,2015-02-25,1,500,Teleseker,Ch1,24,12,24,6,12,4,7,5,7,7,12,,secc7.xls
+82,2015-02-26,1,500,Dialog,Ch10,21,12,23,6,13,5,7,5,7,9,12,,
+83,2015-02-26,1,500,Smith,Globes,22,12,23,6,11,5,8,4,7,9,13,,
+84,2015-02-26,1,500,Smith,Reshet B,22,12,23,6,12,5,8,4,6,9,13,,secc10.pdf / secc9.pdf
+85,2015-02-26,1,500,Panels,Maariv,23,11,25,5,12,5,7,4,7,8,13,,
+86,2015-02-26,1,500,Teleseker,Walla,23,13,23,6,13,4,7,5,7,7,12,,secc7.xls
+87,2015-03-01,1,500,Maagar,Kol Barama,23,12,24,6,11,5,7,5,7,8,12,,
+88,2015-03-02,1,445,TRI,Bizportal,22,14,24,4,13,5,4,6,7,9,12,,
+89,2015-03-02,1,500,Midgam,Galei Zahal,22,12,24,8,12,6,6,4,8,8,12,,Shiluv Milward-Brown
+90,2015-03-02,1,800,Panels,Knesset,21,12,24,5,13,6,7,4,7,8,13,,secc3.pdf
+91,2015-03-03,1,952,TRI,Ch10,23,11,23,5,13,5,7,4,6,10,13,,
+92,2015-03-03,1,500,Midgam,Ch2,23,12,24,6,12,6,6,4,6,8,13,,
+93,2015-03-04,1,500,Panels,Maariv,22,12,23,5,13,6,7,4,7,8,13,,
+94,2015-03-04,1,500,Teleseker,Ch1,24,11,24,6,13,4,8,4,7,7,12,,secc7.xls
+95,2015-03-03,2,624,Gal Hadash,Yisrael Hayom,23,12,23,6,13,5,6,4,6,9,13,,secc8.xls
+96,2015-03-04,2,650,Panels,Maariv,22,12,24,5,13,6,7,4,6,8,13,,secc5.pdf
+97,2015-03-05,1,500,Midgam,Yediot,24,12,25,6,11,5,7,4,7,7,12,,
+98,2015-03-05,1,500,Smith,Reshet B,23,12,23,5,12,5,9,4,6,8,13,,secc10.pdf / PollKY3.15.pdf
+99,2015-03-05,1,500,Teleseker,Walla,24,11,24,6,12,4,8,4,7,8,12,,secc7.xls
+100,2015-03-09,1,500,TRI,Bizportal,24,12,24,4,14,6,5,4,7,8,12,,
+101,2015-03-09,1,1027,Panels,Knesset,21,12,24,5,14,5,7,4,6,9,13,,
+102,2015-03-08,2,1003,Midgam,Ch2,21,13,25,6,12,5,7,4,6,8,13,,
+103,2015-03-09,1,500,Midgam,Galei Tzahal,21,13,24,6,12,6,7,4,7,8,12,,Shiluv Milward-Brown
+104,2015-03-11,1,714,Dialog,Haaretz,21,11,24,4,12,6,7,4,6,11,13,,secc13.pdf http://www.themarker.com/news/politics/1.2587641
+105,2015-03-11,1,500,Panels,Maariv,21,12,24,5,13,5,7,4,7,9,13,http://www.maariv.co.il/news/elections-2015/Article-467908,
+106,2015-03-11,1,500,Smith,Globes,20,12,24,6,12,5,9,4,6,9,13,http://www.globes.co.il/news/article.aspx?did=1001018227,
+107,2015-03-10,3,1002,Teleseker,Ch1,22,11,25,6,12,4,8,4,7,9,12,https://www.youtube.com/watch?v=9PQP8N1kR2w,SIZE UNCERTAIN (1000 or 1500
+108,2015-03-12,1,1004,Maagar,Kol Barama,21,13,24,5,13,5,7,5,7,8,12,http://www.inn.co.il/News/News.aspx/294507,
+109,2015-03-12,1,1032,Midgam,Yediot,22,12,26,5,12,5,7,4,6,8,13,http://www.ynet.co.il/articles/0,
+110,2015-03-11,2,1305,Panels,JPost,21,11,25,4,13,5,7,4,6,10,13,http://www.jpost.com/Israel-Elections/Post-poll-Zionist-Union-extends-its-lead-over-Likud-393810,
+111,2015-03-12,1,1000,Teleseker,Walla,23,11,25,6,12,4,7,4,7,9,12,http://elections.walla.co.il/item/2837561,
+112,2015-03-12,1,800,Smith,Reshet B,21,12,25,6,11,5,9,4,6,9,13,,
+113,2015-03-13,1,500,Midgam,Ch2,22,11,26,5,12,5,7,5,6,8,13,http://www.mako.co.il/news-military/politics-q1_2015/Article-c446c18f3931c41004.htm,SIZE UNKNOWN
+114,2015-03-13,1,1203,Dialog,Ch10,20,12,24,5,12,5,7,5,7,10,13,http://news.nana10.co.il/Article/?ArticleID=1115274&sid=126,

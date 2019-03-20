@@ -1,0 +1,35 @@
+id,start_date,num_days,num_polled,poller,publication,p_Likud,p_Ihud_Leumi,p_Yisrael_Beitenu,p_Gil,p_Kadima,p_Ale_Yarok,p_Yahadut_Hatorah,p_Shas,p_Avoda,p_Meretz,p_RaamTaal,p_Balad,p_Hadash,link,comment
+0,2006-03-26,1,500,Teleseker,Maariv,14,11,12,1,34,0,5,12,17,5,3,3,3,http://imra.org.il/story.php3?id=28868,SIZE UNKNOWN
+1,2006-03-26,1,1115,Dahaf,Yediot,13,9,12,2,34,0,6,11,21,5,3,2,2,http://imra.org.il/story.php3?id=28868,
+2,2006-03-26,1,500,Dialog,Haaretz,14,12,7,2,36,0,6,11,18,6,4,2,2,http://imra.org.il/story.php3?id=28868,SIZE UNKNOWN
+3,2006-03-25,1,503,Maagar,Ch2,12,8,15,2,34,0,7,8,19,6,3,2,2,http://imra.org.il/story.php3?id=28868,SIZE UNKNOWN
+4,2006-03-22,1,500,Teleseker,Maariv,14,11,10,0,37,0,5,9,21,5,4,2,2,http://imra.org.il/story.php3?id=28845,
+5,2006-03-22,1,1003,Dahaf,Yediot,14,9,11,1.68,36,0,5,11,21,6,3,2,2,http://imra.org.il/story.php3?id=28845,CORRECTED SIZE/DATE (WAS 1062)
+6,2006-03-23,1,500,Maagar,Reshet B,16,9,11,2,33,0,7,10,18,6,4,2,2,,
+7,2006-03-22,1,501,Smith,Globes/Jpost,15,10,10.5,0,34,0,5.5,10.5,19.5,5,4,3,3,http://imra.org.il/story.php3?id=28845,http://www.uzit.co.il/poll2006.html ARABS UNCERTAIN
+8,2006-03-22,1,500,Dialog,Haaretz,14,9,9,2,36,0,6,11,17,6,4,3,3,,
+9,2006-03-22,1,500,Maagar,Ch2,15,7,12,0,33,0,7,8,20,6,3,2,2,,
+10,2006-03-16,1,500,Maagar,Makor Rishon,16,8,11,0,35,0,7,10,21,5,3,2,2,http://imra.org.il/story.php3?id=28796,
+11,2006-03-15,1,500,Teleseker,Maariv,15,8,8,0,39,0,5,10,20,6,3,3,3,http://imra.org.il/story.php3?id=28796,
+12,2006-03-15,1,500,Dahaf,Yediot,15,8,10,0,39,0,6,11,19,4,4,2,2,http://imra.org.il/story.php3?id=28796,CORRECTED SIZE WAS 1002
+13,2006-03-15,1,513,Maagar,Reshet B,17,9,10,0,36,0,6,10,21,4,2,2,2,http://imra.org.il/story.php3?id=28796,
+14,2006-03-15,1,501,Smith,Globes/Jpost,15,10,10,0,36,0,6,10,19,5,3,3,3,http://imra.org.il/story.php3?id=28796,
+15,2006-03-14,1,500,Dialog,Haaretz,16,8,10,0,37,0,6,10,20,5,4,2,2,http://imra.org.il/story.php3?id=28796,SIZE UNKNOWN
+16,2006-03-08,1,506,Teleseker,Maariv,17,9,9,0,38,0,5,9,19,5,3,3,3,http://imra.org.il/story.php3?id=28733,
+17,2006-03-08,1,500,Dahaf,Yediot,14,8,10,0,37,0,6,11,20,6,4,2,2,http://imra.org.il/story.php3?id=28733,DATE UNCERTAIN
+18,2006-03-08,1,578,Maagar,Reshet B,15,9,10,0,35,2,6,8,19,5,4,2,2,http://imra.org.il/story.php3?id=28733,
+19,2006-03-09,1,501,Smith,Globes,18,10,10,0,34,0,6,10,18,5,3,3,3,http://imra.org.il/story.php3?id=28733,
+20,2006-03-08,1,500,Dialog,Haaretz,17,10,8,0,37,2,5,10,19,4,4,2,2,http://imra.org.il/story.php3?id=28733,
+21,2006-03-06,1,511,Maagar,Mishal Ham,18,11,8,1,36,1,6,9,18,5,3,2,2,http://imra.org.il/story.php3?id=28710,ARABS UNKNOWN
+22,2006-03-03,1,500,Dahaf,Yediot,15,9,9,0,38,0,6,10,20,5,4,2,2,http://imra.org.il/story.php3?id=28668,DATE UNKNOWN
+23,2006-03-02,1,500,Maagar,Makor Rishon,18,11,8,0,36,0,6,9,18,6,4,2,2,http://imra.org.il/story.php3?id=28668,SIZE UNKNOWN
+24,2006-03-01,1,502,Teleseker,Maariv,18,9,7,0,39,0,5,9,21,5,3,2,2,http://imra.org.il/story.php3?id=28668,
+25,2006-03-01,1,503,Maagar,Reshet B,16,11,8,0,36,1,6,9,19,6,4,2,2,http://imra.org.il/story.php3?id=28668,
+26,2006-03-01,1,500,Smith,Globes/JPost,17,10,9,0,37,0,6,10,17,5,3,3,3,http://imra.org.il/story.php3?id=28668,SIZE UNKNOWN
+27,2006-03-01,1,500,Dialog,Haaretz,15,11,7,0,37,0,6,10,19,6,3,3,3,http://imra.org.il/story.php3?id=28668,SIZE UNKNOWN
+28,2006-02-22,1,500,Dahaf,Yediot,16,8,9,0,39,0,5,10,19,5,3,3,3,http://imra.org.il/story.php3?id=28603,DATE UNCERTAIN
+29,2006-02-24,1,500,Maagar,Makor Rishon,17,11,7,0,38,0,6,9,19,5,4,2,2,,
+30,2006-02-22,1,500,Teleseker,Maariv,15,10,8,0,40,0,5,9,20,5,4,2,2,http://imra.org.il/story.php3?id=28603,
+31,2006-02-23,1,500,Maagar,Reshet B,14,9,10,0,36,2,6,8,19,5,3,3,3,,
+32,2006-02-23,1,500,Smith,Globes/Jpost,17,9,8,0,39,0,6,10,18,4,3,3,3,http://imra.org.il/story.php3?id=28603,SIZE UNKNOWN
+33,2006-02-22,1,500,Dialog,Haaretz,14,11,7,0,39,0,7,9,19,5,3,3,3,,

@@ -1,0 +1,266 @@
+{
+  "party_groups": [ "Left", "Center", "Right", "Hard Right", "Social", "Haredi", "Arabs" ],
+  "cycles": {
+    "election17_2006": {
+      "pollsters": {
+        "Maagar":                 { "name": "Maagar Mochot", "hname": "מאגר מוחות" },
+        "Dahaf":                  { "name": "Dahaf", "hname": "דחף" },
+        "Smith":                  { "name": "Smith", "hname": "סמית'" },
+        "Dialog":                 { "name": "Dialog", "hname": "דיאלוג" },
+        "Teleseker":              { "name": "Teleseker", "hname": "טלסקר" }
+      },
+      "parties": {
+        "p_Likud":            { "name": "Likud", "group": "Right" },
+        "p_Ihud_Leumi":       { "name": "National Union", "group": "Hard Right" },
+        "p_Yisrael_Beitenu":  { "name": "Yisrael Beitenu", "group":  "Right" },
+        "p_Gil":              { "name": "Gil", "group": "Social" },
+        "p_Kadima":           { "name": "Kadima", "group": "Center" },
+        "p_Ale_Yarok":        { "name": "Green Leaf", "group": "Social" },
+        "p_Yahadut_Hatorah":  { "name": "United Torah Judaism", "group": "Haredi" },
+        "p_Shas":             { "name": "Shas", "group": "Haredi" },
+        "p_Avoda":            { "name": "Labor", "group": "Left" }, 
+        "p_Meretz":           { "name": "Meretz", "group": "Left" },
+        "p_RaamTaal":         { "name": "Raam Taal", "group": "Arabs" },
+        "p_Balad":            { "name": "Balad", "group": "Arabs" }, 
+        "p_Hadash":           { "name": "Hadash", "group": "Arabs" }
+      },
+      "polls": [{
+        "type": "csv",
+        "filename": "polls/polls-17-main.csv"
+      }],
+      "election_day": "28/03/2006",
+      "total_voters": 3186739,
+      "actual_votes": {
+        "p_Likud":            281996,
+        "p_Ihud_Leumi":       224083,
+        "p_Yisrael_Beitenu":  281880,
+        "p_Gil":              185759,
+        "p_Kadima":           690901,
+        "p_Ale_Yarok":         40353,
+        "p_Yahadut_Hatorah":  147091,
+        "p_Shas":             299054,
+        "p_Avoda":            472366, 
+        "p_Meretz":           118302,
+        "p_RaamTaal":          94786,
+        "p_Balad":             72066, 
+        "p_Hadash":            86092
+      }
+    },
+    "election18_2009": {
+      "pollsters": {
+        "Midgam":                 { "name": "Midgam", "hname": "מדגם" },
+        "Maagar":                 { "name": "Maagar Mochot", "hname": "מאגר מוחות" },
+        "Dahaf":                  { "name": "Dahaf", "hname": "דחף" },
+        "Panels":                 { "name": "Panels", "hname": "פאנלס" },
+        "Smith":                  { "name": "Smith", "hname": "סמית'" },
+        "Dialog":                 { "name": "Dialog", "hname": "דיאלוג" },
+        "Teleseker":              { "name": "Teleseker", "hname": "טלסקר" },
+        "ShvakimPanorama":        { "name": "Shvakim Panorama", "hname": "שווקים פנורמה" },
+        "Gal Hadash":             { "name": "Gal Hadash", "hname": "הגל החדש" }
+      },
+      "parties": {
+        "p_Likud":            { "name": "Likud", "group": "Right" },
+        "p_Ihud_Leumi":       { "name": "National Union", "group": "Hard Right" },
+        "p_Yisrael_Beitenu":  { "name": "Yisrael Beitenu", "group":  "Right" },
+        "p_Habayit_Hayehudi": { "name": "Jewish Home", "group": "Right" },
+        "p_Gil":              { "name": "Gil", "group": "Social" },
+        "p_Kadima":           { "name": "Kadima", "group": "Center" },
+        "p_Yahadut_Hatorah":  { "name": "United Torah Judaism", "group": "Haredi" },
+        "p_Shas":             { "name": "Shas", "group": "Haredi" },
+        "p_Avoda":            { "name": "Labor", "group": "Left" }, 
+        "p_Meretz":           { "name": "Meretz", "group": "Left" },
+        "p_RaamTaal":         { "name": "Raam Taal", "group": "Arabs" },
+        "p_Balad":            { "name": "Balad", "group": "Arabs" }, 
+        "p_Hadash":           { "name": "Hadash", "group": "Arabs" }
+      },
+      "polls": [{
+        "type": "csv",
+        "filename": "polls/polls-18-main.csv"
+      }],
+      "election_day": "10/02/2009",
+      "total_voters": 3373490,
+      "actual_votes": {
+        "p_Likud":            729054,
+        "p_Ihud_Leumi":       112570,
+        "p_Yisrael_Beitenu":  394577,
+        "p_Habayit_Hayehudi":  96765,
+        "p_Gil":               17571,
+        "p_Kadima":           758032,
+        "p_Yahadut_Hatorah":  147954,
+        "p_Shas":             286300,
+        "p_Avoda":            334900, 
+        "p_Meretz":            99611,
+        "p_RaamTaal":         113954,
+        "p_Balad":             83739, 
+        "p_Hadash":           112130
+      }
+    },
+    "election19_2013": {
+      "pollsters": {
+        "Midgam":                 { "name": "Midgam", "hname": "מדגם" },
+        "Maagar":                 { "name": "Maagar Mochot", "hname": "מאגר מוחות" },
+        "Dahaf":                  { "name": "Dahaf", "hname": "דחף" },
+        "Panels":                 { "name": "Panels", "hname": "פאנלס" },
+        "Smith":                  { "name": "Smith", "hname": "סמית'" },
+        "Dialog":                 { "name": "Dialog", "hname": "דיאלוג" },
+        "Teleseker":              { "name": "Teleseker", "hname": "טלסקר" },
+        "Unknown":                { "name": "Unknown", "hname": "לא ידוע" },
+        "Gal Hadash":             { "name": "Gal Hadash", "hname": "הגל החדש" },
+        "TRI":                    { "name": "TRI", "hname": "" }
+      },
+      "parties": {
+        "p_Kadima":           { "name": "Kadima", "group": "Center" },
+        "p_Hatenuah":         { "name": "Hatenuah", "group": "Center" },
+        "p_Likud_Beitenu":    { "name": "Likud-Yisrael Beitenu", "group": "Right" },
+        "p_Avoda":            { "name": "Labor", "group": "Left" }, 
+        "p_Shas":             { "name": "Shas", "group": "Haredi" },
+        "p_Habayit_Hayehudi": { "name": "Jewish Home", "group": "Hard Right" },
+        "p_Yahadut_Hatorah":  { "name": "United Torah Judaism", "group": "Haredi" },
+        "p_Meretz":           { "name": "Meretz", "group": "Left" },
+        "p_Yesh_Atid":        { "name": "Yesh Atid", "group": "Center" },
+        "p_Otsma":            { "name": "Otzma Leyisrael", "group": "Hard Right" },
+        "p_Am_Shalem":        { "name": "Am Shalem", "group": "Social" },
+        "p_RaamTaal":         { "name": "Raam Taal", "group": "Arabs" },
+        "p_Balad":            { "name": "Balad", "group": "Arabs" }, 
+        "p_Hadash":           { "name": "Hadash", "group": "Arabs" }
+      },
+      "polls": [{
+        "type": "csv",
+        "filename": "polls/polls-19-main.csv"
+      }],
+      "election_day": "22/01/2013",
+      "total_voters": 3792742,
+      "actual_votes": {
+        "p_Kadima":            78974,
+        "p_Hatenuah":         189167,
+        "p_Likud_Beitenu":    885163,
+        "p_Avoda":            432118, 
+        "p_Shas":             331868,
+        "p_Habayit_Hayehudi": 345985,
+        "p_Yahadut_Hatorah":  195892,
+        "p_Meretz":           172403,
+        "p_Yesh_Atid":        543458,
+        "p_Otsma":             66775,
+        "p_Am_Shalem":         45690,
+        "p_RaamTaal":         138450,
+        "p_Balad":             97030, 
+        "p_Hadash":           113439
+      }
+    },
+    "election20_2015": {
+      "pollsters": {
+        "Midgam":                 { "name": "Midgam", "hname": "מדגם" },
+        "Maagar":                 { "name": "Maagar Mochot", "hname": "מאגר מוחות" },
+        "Panels":                 { "name": "Panels", "hname": "פאנלס" },
+        "Smith":                  { "name": "Smith", "hname": "סמית'" },
+        "Sarid":                  { "name": "Sarid", "hname": "שריד" },
+        "Dialog":                 { "name": "Dialog", "hname": "דיאלוג" },
+        "Mano Geva":              { "name": "Mano Geva", "hname": "מנו גבע" },
+        "Teleseker":              { "name": "Teleseker", "hname": "טלסקר" },
+        "202 Strategies":         { "name": "202 Strategies", "hname": "" },
+        "Gal Hadash":             { "name": "Gal Hadash", "hname": "הגל החדש" },
+        "TRI":                    { "name": "TRI", "hname": "" }
+      },
+      "parties": {
+        "p_Likud":            { "name": "Likud", "hname": "הליכוד", "group": "Right" },
+        "p_Habayit_Hayehudi": { "name": "Jewish Home", "hname": "הבית היהודי", "group": "Hard Right" },
+        "p_Mahane_Tzioni":    { "name": "Mahane Zioni", "hname": "המחנה הציוני", "group": "Left" }, 
+        "p_Yisrael_Beitenu":  { "name": "Yisrael Beitenu", "hname": "ישראל ביתנו", "group":  "Right" },
+        "p_Yesh_Atid":        { "name": "Yesh Atid", "hname": "יש עתיד", "group": "Center" },
+        "p_Meretz":           { "name": "Meretz", "hname": "מרצ", "group": "Left" },
+        "p_Shas":             { "name": "Shas", "hname": "ש\"ס", "group": "Haredi" },
+        "p_Yishai":           { "name": "Yachad", "hname": "יחד", "group": "Hard Right" },
+        "p_Yahadut_Hatorah":  { "name": "United Torah Judaism", "hname": "יהדות התורה", "group": "Haredi" },
+        "p_Koolanu":          { "name": "Kulanu", "hname": "כולנו", "group": "Social" },
+        "p_Arabs":            { "name": "Joint List", "hname": "הרשימה המשותפת", "group": "Arabs" }
+      },
+      "polls": [{
+        "type": "csv",
+        "filename": "polls/polls-20-main.csv"
+      }],
+      "surplus_agreements": [
+        { "name1": "p_Likud",         "name2": "p_Habayit_Hayehudi",  "since": "05/12/2014" },
+        { "name1": "p_Koolanu",       "name2": "p_Yisrael_Beitenu",   "since": "12/12/2014" },
+        { "name1": "p_Mahane_Tzioni", "name2": "p_Meretz",            "since": "06/03/2015" },
+        { "name1": "p_Shas",          "name2": "p_Yahadut_Hatorah",   "since": "15/02/2015" }
+      ],
+      "threshold_percent": 3.25,
+      "election_day": "17/03/2015",
+      "total_voters": 4254738,
+      "actual_votes": {
+        "p_Likud":            985408,
+        "p_Habayit_Hayehudi": 283910,
+        "p_Mahane_Tzioni":    786313, 
+        "p_Yisrael_Beitenu":  214906,
+        "p_Yesh_Atid":        371602,
+        "p_Meretz":           165529,
+        "p_Shas":             241613,
+        "p_Yishai":           125158,
+        "p_Yahadut_Hatorah":  210143,
+        "p_Koolanu":          315360,
+        "p_Arabs":            446583
+      }
+    },
+    "election21_2019": {
+      "pollsters": {
+        "Midgam":                 { "name": "Midgam", "hname": "מדגם" },
+        "DirectPolls":            { "name": "Direct Polls", "hname": "" },
+        "MaagarMochot":           { "name": "Maagar Mochot", "hname": "מאגר מוחות" },
+        "MidgamProject":          { "name": "Midgam Project", "hname": "פרוייקט המדגם" },
+        "Panels":                 { "name": "Panels", "hname": "פאנלס" },
+        "Smith":                  { "name": "Smith", "hname": "סמית'" },
+        "Dialog":                 { "name": "Dialog", "hname": "דיאלוג" },
+        "TNS":                    { "name": "TNS", "hname": "" },
+        "Sarid":                  { "name": "Sarid", "hname": "מכון שריד" },
+        "No10Strategies":         { "name": "#10 Strategies", "hname": "#10 Strategies" },
+        "Miskar":                 { "name": "Miskar", "hname": "מסקר" }
+      },
+      "parties": {
+        "p_Likud":                { "name": "Likud", "hname": "הליכוד", "group": "Right" },
+        "p_Yesh_Atid":            { "name": "Yesh Atid", "hname": "יש עתיד", "group": "Center", "dissolved":  "21/02/2019" },
+        "p_Joint_List":           { "name": "Hadash-Taal", "hname": "חד\"ש-תע\"ל", "group": "Arabs", "union_of": [ "p_Joint_List", "p_Taal" ]  },
+        "p_New_Yamin":            { "name": "New Yamin", "hname": "הימין החדש", "group": "Hard Right", "created": "29/12/2018" },
+        "p_Right_Union":          { "name": "Right Union", "hname": "איחוד מפלגות הימין", "group": "Hard Right", "union_of": [ "p_Right_Union", "p_National_Union", "p_Otzma" ] },
+        "p_Kahol_Lavan":          { "name": "Blue & White", "hname": "כחול-לבן", "group": "Center", "union_of": [ "p_Kahol_Lavan", "p_Telem", "p_Yesh_Atid" ] },
+        "p_Labor":                { "name": "Labor", "hname": "העבודה", "group": "Left" }, 
+        "p_Meretz":               { "name": "Meretz", "hname": "מרצ", "group": "Left" },
+        "p_United_Torah_Judaism": { "name": "UTJ", "hname": "יהדות התורה", "group": "Haredi" },
+        "p_Kulanu":               { "name": "Kulanu", "hname": "כולנו", "group": "Social" },
+        "p_Shas":                 { "name": "Shas", "hname": "ש\"ס", "group": "Haredi" },
+        "p_Yisrael_Beitenu":      { "name": "Yisrael Beitenu", "hname": "ישראל ביתנו", "group":  "Right" },
+        "p_Gesher":               { "name": "Gesher", "hname": "גשר", "group": "Social" },
+        "p_Green_Leaf":           { "name": "Green Leaf", "hname": "עלה ירוק", "group": "Social", "dissolved": "21/02/2019" },
+        "p_Taal":                 { "name": "Taal", "hname": "תע\"ל", "group":  "Arabs", "created": "08/01/2019", "dissolved":  "21/02/2019" },
+        "p_RaamBalad":            { "name": "Raam-Balad", "hname": "רע\"ם-בל\"ד", "group":  "Arabs", "created": "21/02/2019" },
+        "p_Tnuah":                { "name": "Tenuah", "hname": "התנועה", "group":  "Left", "created": "01/01/2019", "dissolved": "18/02/2019" },
+        "p_Otzma":                { "name": "Otzma Leyisrael", "hname": "עוצמה לישראל", "group": "Hard Right", "dissolved": "20/02/2019" },
+        "p_Zehut":                { "name": "Zehut", "hname": "זהות", "group": "Hard Right" },
+        "p_Magen":                { "name": "Magen", "hname": "מגן", "group":  "Right", "created": "28/01/2019"  },
+        "p_Telem":                { "name": "Telem", "hname": "תלם", "group":  "Right", "dissolved": "29/01/2019" },
+        "p_Eretz_Hadasha":        { "name": "Eretz Hadasha", "hname": "ארץ חדשה", "group": "Left", "created": "29/12/2018", "dissolved": "21/02/2019"  },
+        "p_Yachad":               { "name": "Yachad", "hname": "יחד", "group": "Hard Right" },
+        "p_National_Union":       { "name": "National Union", "hname": "האיחוד הלאומי", "group":  "Hard Right", "dissolved": "14/02/2019" }
+      },
+      "polls": [{
+        "type": "google-sheets",
+        "key": "1lqqrIp_sXir_Sz_H_y3mCvOaXGc_lmSsPaD-Y0C9eBk",
+        "worksheet": "raw_data_2019",
+        "method": "deduce",
+        "total_seats": 120,
+        "others_col": "p_Others",
+        "others_full": 0.03,
+        "others_min": 0.01,
+        "default_num_polled": 400,
+        "threshold": 0.0325
+      }],
+      "surplus_agreements": [
+        { "name1": "p_Likud",                 "name2": "p_Right_Union",       "since": "20/02/2019" },
+        { "name1": "p_New_Yamin",             "name2": "p_Yisrael_Beitenu",   "since": "23/02/2019" },
+        { "name1": "p_Labor",                 "name2": "p_Meretz",            "since": "25/02/2019" },
+        { "name1": "p_United_Torah_Judaism",  "name2": "p_Shas",              "since": "06/03/2019" }
+      ],
+      "threshold_percent": 3.25,
+      "election_day": "10/04/2019"
+    }
+  }
+}
