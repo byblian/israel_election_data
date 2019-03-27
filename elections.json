@@ -250,7 +250,7 @@
         "c_gantz":                { "name": "Blue & White - Secular Jewish", "hname": "כחול-לבן חילוני יהודי",
                                     "parties": [ "p_Kahol_Lavan", "p_Labor", "p_Meretz", "p_Kulanu", "p_Gesher", "p_Zehut" ]  },
         "c_gantz_secular":        { "name": "Blue & White - Secular Only", "hname": "כחול-לבן חילוני",
-                                    "parties": [ "p_Joint_List", "p_Kahol_Lavan", "p_Labor", "p_Meretz", "p_Kulanu", "p_Gesher", "p_Zehut" ]  },
+                                    "parties": [ "p_Joint_List", "p_Kahol_Lavan", "p_Labor", "p_Meretz", "p_Kulanu", "p_Gesher" ]  },
         "c_gantz_jewish":         { "name": "Blue & White - Jewish Only", "hname": "כחול-לבן יהודי",
                                     "parties": [ "p_Kahol_Lavan", "p_Labor", "p_Meretz", "p_United_Torah_Judaism", "p_Kulanu", "p_Shas",
                                                  "p_Gesher", "p_Zehut" ]  }
