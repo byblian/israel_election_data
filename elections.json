@@ -224,7 +224,7 @@
         "p_Kahol_Lavan":          { "name": "Blue & White", "hname": "כחול-לבן", "group": "Center", "union_of": [ "p_Kahol_Lavan", "p_Telem", "p_Yesh_Atid" ] },
         "p_Labor":                { "name": "Labor", "hname": "העבודה", "group": "Left" }, 
         "p_Meretz":               { "name": "Meretz", "hname": "מרצ", "group": "Left" },
-        "p_United_Torah_Judaism": { "name": "UTJ", "hname": "יהדות התורה", "group": "Haredi" },
+        "p_United_Torah_Judaism": { "name": "UTJ", "hname": "יהדות התורה", "group": "Haredi", "union_of": [ "p_United_Torah_Judaism", "p_Yachad" ] },
         "p_Kulanu":               { "name": "Kulanu", "hname": "כולנו", "group": "Social" },
         "p_Shas":                 { "name": "Shas", "hname": "ש\"ס", "group": "Haredi" },
         "p_Yisrael_Beitenu":      { "name": "Yisrael Beitenu", "hname": "ישראל ביתנו", "group":  "Right" },
@@ -238,7 +238,7 @@
         "p_Magen":                { "name": "Magen", "hname": "מגן", "group":  "Right", "created": "28/01/2019"  },
         "p_Telem":                { "name": "Telem", "hname": "תלם", "group":  "Right", "dissolved": "29/01/2019" },
         "p_Eretz_Hadasha":        { "name": "Eretz Hadasha", "hname": "ארץ חדשה", "group": "Left", "created": "29/12/2018", "dissolved": "21/02/2019"  },
-        "p_Yachad":               { "name": "Yachad", "hname": "יחד", "group": "Hard Right" },
+        "p_Yachad":               { "name": "Yachad", "hname": "יחד", "group": "Hard Right", "dissolved": "27/03/2019" },
         "p_National_Union":       { "name": "National Union", "hname": "האיחוד הלאומי", "group":  "Hard Right", "dissolved": "14/02/2019" }
       },
       "coalitions": {
