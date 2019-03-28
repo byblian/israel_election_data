@@ -244,7 +244,7 @@
       "coalitions": {
         "c_likud":                { "name": "Likud", "hname": "הליכוד",
                                     "parties": [ "p_Likud", "p_New_Yamin", "p_Right_Union", "p_United_Torah_Judaism", "p_Kulanu", "p_Shas", "p_Yisrael_Beitenu",
-                                                 "p_Gesher", "p_Zehut", "p_Magen", "p_Yachad" ] },
+                                                 "p_Gesher", "p_Zehut", "p_Magen" ] },
         "c_unity":                { "name": "Unity Government", "hname": "ממשלת אחדות",
                                     "parties": [ "p_Likud", "p_Kahol_Lavan", "p_Labor", "p_Kulanu", "p_Yisrael_Beitenu", "p_Gesher", "p_Magen" ] },
         "c_gantz":                { "name": "Blue & White - Secular Jewish", "hname": "כחול-לבן חילוני יהודי",
