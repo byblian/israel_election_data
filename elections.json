@@ -271,7 +271,8 @@
         { "name1": "p_Likud",                 "name2": "p_Right_Union",       "since": "20/02/2019" },
         { "name1": "p_New_Yamin",             "name2": "p_Yisrael_Beitenu",   "since": "23/02/2019" },
         { "name1": "p_Labor",                 "name2": "p_Meretz",            "since": "25/02/2019" },
-        { "name1": "p_United_Torah_Judaism",  "name2": "p_Shas",              "since": "06/03/2019" }
+        { "name1": "p_United_Torah_Judaism",  "name2": "p_Shas",              "since": "06/03/2019" },
+        { "name1": "p_RaamBalad",             "name2": "p_Joint_List",        "since": "30/03/2019" }
       ],
       "threshold_percent": 3.25,
       "election_day": "10/04/2019"
