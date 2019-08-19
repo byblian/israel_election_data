@@ -308,10 +308,10 @@
       "coalitions": {
         "c_22_likud":               { "name": "Likud", "hname": "הליכוד",
 									  "parties": [ "p_22_Likud", "p_22_Yamina", "p_22_UTJ", "p_22_Shas", "p_22_Zehut", "p_22_Otzma", "p_22_Noam" ] },
+        "c_22_likud_labor":         { "name": "Likud-Labor", "hname": "הליכוד-העבודה",
+									  "parties": [ "p_22_Likud", "p_22_Labor", "p_22_Yamina", "p_22_UTJ", "p_22_Shas", "p_22_Zehut" ] },
         "c_22_unity":               { "name": "Unity Government", "hname": "ממשלת אחדות",
 									  "parties": [ "p_22_Likud", "p_22_Blue_White", "p_22_Labor", "p_22_Yisrael_Beitenu" ] },
-        "c_22_gantz":               { "name": "Blue & White - Secular Jewish", "hname": "כחול-לבן חילוני יהודי",
-									  "parties": [ "p_22_Blue_White", "p_22_Labor", "p_22_Democratic_Union" ]  },
         "c_22_gantz_secular":       { "name": "Blue & White - Secular Only", "hname": "כחול-לבן חילוני",
 									  "parties": [ "p_22_Blue_White", "p_22_Joint_List", "p_22_Labor", "p_22_Democratic_Union" ]  },
         "c_21_gantz_jewish":        { "name": "Blue & White - Jewish Only", "hname": "כחול-לבן יהודי",
