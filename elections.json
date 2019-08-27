@@ -299,7 +299,7 @@
         "p_22_Yamina":               { "name": "Yamina", "hname": "ימינה", "group": "Hard Right" },
         "p_22_Shas":                 { "name": "Shas", "hname": "ש\"ס", "group": "Haredi" },
         "p_22_UTJ":                  { "name": "UTJ", "hname": "יהדות התורה", "group": "Haredi" },
-        "p_22_Democratic_Union":     { "name": "Democratic Union", "hname": "המחנה הדמוקרטי", "group": "Left" },
+        "p_22_Democratic_Camp":      { "name": "Democratic Camp", "hname": "המחנה הדמוקרטי", "group": "Left" },
         "p_22_Labor":                { "name": "Labor", "hname": "העבודה", "group": "Left" }, 
         "p_22_Zehut":                { "name": "Zehut", "hname": "זהות", "group": "Hard Right" },
         "p_22_Otzma":                { "name": "Otzma Leyisrael", "hname": "עוצמה לישראל", "group": "Hard Right" },
@@ -313,15 +313,15 @@
         "c_22_unity":               { "name": "Unity Government", "hname": "ממשלת אחדות",
 									  "parties": [ "p_22_Likud", "p_22_Blue_White", "p_22_Labor", "p_22_Yisrael_Beitenu" ] },
         "c_22_blue_white_ybeitenu": { "name": "Blue & White - Yisrael Beitenu", "hname": "כחול-לבן וישראל ביתנו",
-									  "parties": [ "p_22_Blue_White", "p_22_Labor", "p_22_Democratic_Union", "p_22_Yisrael_Beitenu" ]  },
+									  "parties": [ "p_22_Blue_White", "p_22_Labor", "p_22_Democratic_Camp", "p_22_Yisrael_Beitenu" ]  },
         "c_21_blue_white_jointlist":{ "name": "Blue & White - Joint List", "hname": "כחול-לבן והמשותפת",
-									  "parties": [ "p_22_Blue_White", "p_22_Joint_List", "p_22_Labor", "p_22_Democratic_Union" ],
+									  "parties": [ "p_22_Blue_White", "p_22_Joint_List", "p_22_Labor", "p_22_Democratic_Camp" ],
 									  "subsets": { 
 										  "p_22_Joint_List": { "name": "w/o Balad", "hname": "ללא בל\"ד", "members": [ 1, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 17, 19, 20] }
 									  }   
 									},
         "c_21_hosen_telem_jointlist":{"name": "Hosen-Telem - Joint List", "hname": "חוסן-תל\"ם והמשותפת",
-									  "parties": [ "p_22_Blue_White", "p_22_Joint_List", "p_22_Labor", "p_22_Democratic_Union", "p_22_UTJ", "p_22_Shas" ],
+									  "parties": [ "p_22_Blue_White", "p_22_Joint_List", "p_22_Labor", "p_22_Democratic_Camp", "p_22_UTJ", "p_22_Shas" ],
 									  "subsets": { 
 										  "p_22_Joint_List": { "name": "w/o Balad", "hname": "ללא בל\"ד", "members": [ 1, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 17, 19, 20] },
 										  "p_22_Blue_White": { "name": "w/o Yesh Atid", "hname": "ללא יש עתיד", "members": [ 1, 3, 4, 5, 7, 9, 11, 12, 14, 15, 17, 19, 20, 23, 25, 27, 29, 31, 32, 33, 36, 37, 39, 40, 43, 45, 46, 48, 50] }
@@ -343,7 +343,7 @@
       "surplus_agreements": [
         { "name1": "p_22_Likud",                 "name2": "p_22_Yamina",            "since": "21/08/2019" },
         { "name1": "p_22_Blue_White",            "name2": "p_22_Yisrael_Beitenu",   "since": "20/08/2019" },
-        { "name1": "p_22_Democratic_Union",      "name2": "p_22_Labor",             "since": "21/08/2019" },
+        { "name1": "p_22_Democratic_Camp",       "name2": "p_22_Labor",             "since": "21/08/2019" },
         { "name1": "p_22_Shas",                  "name2": "p_22_UTJ",               "since": "21/08/2019" }
       ],
       "threshold_percent": 3.25,
