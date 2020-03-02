@@ -372,7 +372,9 @@
         "p_23_Otzma":                { "name": "Otzma Yehudit", "hname": "עוצמה יהודית", "group": "Hard Right" }
       },
       "coalitions": {
-        "c_23_likud":               { "name": "Likud", "hname": "הליכוד",
+        "c_23_right_bloc":          { "name": "Right Bloc", "hname": "גוש הימין",
+									  "parties": [ "p_23_Likud", "p_23_Yamina", "p_23_UTJ", "p_23_Shas", "p_23_Otzma" ] },
+        "c_23_prev_right_bloc":     { "name": "Right Bloc in the Past", "hname": "גוש הימין בעבר",
 									  "parties": [ "p_23_Likud", "p_23_Yamina", "p_23_UTJ", "p_23_Shas", "p_23_Otzma" ] },
         "c_23_blue_white_ybeitenu": { "name": "Blue & White - Yisrael Beitenu", "hname": "כחול-לבן וישראל ביתנו",
 									  "parties": [ "p_23_Blue_White", "p_23_Labor", "p_23_Yisrael_Beitenu" ]  },
@@ -382,7 +384,7 @@
 										  "p_23_Joint_List": { "name": "w/o Balad", "hname": "ללא בל\"ד", "members": [ 1, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 17, 19, 20] }
 									  }
 									},
-        "c_23_hosen_telem_jointlist":{"name": "Hosen-Telem - Joint List", "hname": "חוסן-תל\"ם והמשותפת",
+        "c_23_hosen_telem_jointlist":{"name": "Hosen-Telem - Haredim - Joint List", "hname": "חוסן-תל\"ם החרדים והמשותפת",
 									  "parties": [ "p_23_Blue_White", "p_23_Joint_List", "p_23_Labor", "p_23_UTJ", "p_23_Shas" ],
 									  "subsets": {
 										  "p_23_Joint_List": { "name": "w/o Balad", "hname": "ללא בל\"ד", "members": [ 1, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 17, 19, 20] },
