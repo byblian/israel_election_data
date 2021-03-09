@@ -375,7 +375,7 @@
         "c_23_right_bloc":          { "name": "Right Bloc", "hname": "גוש הימין",
 									  "parties": [ "p_23_Likud", "p_23_Yamina", "p_23_UTJ", "p_23_Shas", "p_23_Otzma" ] },
         "c_23_prev_right_bloc":     { "name": "Right Bloc in the Past", "hname": "גוש הימין בעבר",
-									  "parties": [ "p_23_Likud", "p_23_Yamina", "p_23_UTJ", "p_23_Shas", "p_23_Otzma" ] },
+									  "parties": [ "p_23_Likud", "p_23_Yamina", "p_23_UTJ", "p_23_Shas", "p_23_Otzma", "p_23_Yisrael_Beitenu" ] },
         "c_23_blue_white_ybeitenu": { "name": "Blue & White - Yisrael Beitenu", "hname": "כחול-לבן וישראל ביתנו",
 									  "parties": [ "p_23_Blue_White", "p_23_Labor", "p_23_Yisrael_Beitenu" ]  },
         "c_23_blue_white_jointlist":{ "name": "Blue & White - Joint List", "hname": "כחול-לבן והמשותפת",
@@ -411,6 +411,72 @@
       ],
       "threshold_percent": 3.25,
       "election_day": "02/03/2020"
+    },
+    "election24_2021": {
+      "pollsters": {
+        "Midgam":                 { "name": "Midgam", "hname": "מדגם" },
+        "DirectPolls":            { "name": "Direct Polls", "hname": "" },
+        "MaagarMochot":           { "name": "Maagar Mochot", "hname": "מאגר מוחות" },
+        "MidgamProject":          { "name": "Midgam Project", "hname": "פרוייקט המדגם" },
+        "Panels":                 { "name": "Panels", "hname": "פאנלס" },
+        "TNS":                    { "name": "Kantar", "hname": "" }
+      },
+      "parties": {
+        "p_24_Likud":                { "name": "Likud", "hname": "הליכוד", "group": "Right" },
+        "p_24_Yesh_Atid":            { "name": "Yesh Atid", "hname": "יש עתיד", "group": "Center" },
+        "p_24_New_Hope":             { "name": "New Hope", "hname": "תקווה חדשה", "group": "Center" },
+        "p_24_Yamina":               { "name": "Yamina", "hname": "ימינה", "group": "Hard Right" },
+        "p_24_Joint_List":           { "name": "Joint List", "hname": "הרשימה המשותפת", "group": "Arabs"  },
+        "p_24_Shas":                 { "name": "Shas", "hname": "ש\"ס", "group": "Haredi" },
+        "p_24_Yisrael_Beitenu":      { "name": "Yisrael Beitenu", "hname": "ישראל ביתנו", "group":  "Right" },
+        "p_24_UTJ":                  { "name": "UTJ", "hname": "יהדות התורה", "group": "Haredi" },
+        "p_24_Labor":                { "name": "Labor", "hname": "העבודה", "group": "Left" },
+        "p_24_Meretz":               { "name": "Meretz", "hname": "מרצ", "group": "Left" },
+        "p_24_Religious_Zionism":    { "name": "Religious Zionism", "hname": "הציונות הדתית", "group":  "Right" },
+        "p_24_Blue_White":           { "name": "Blue & White", "hname": "כחול-לבן", "group": "Center" },
+        "p_24_Raam":                 { "name": "Raam", "hname": "רע\"מ", "group": "Arabs"  },
+        "p_24_New_Economy":          { "name": "New Economy", "hname": "הכלכלית החדשה", "group": "Center" }
+      },
+      "coalitions": {
+        "c_24_netanyahu_right":        { "name": "Netanyahu Right-Wing Gov't", "hname": "ממשלת ימין של נתניהו",
+                                         "parties": [ "p_24_Likud", "p_24_Yamina", "p_24_UTJ", "p_24_Shas", "p_24_Religious_Zionism" ] },
+        "c_24_netanyahu_right_raam":   { "name": "Netanyahu Right-Wing Gov't w/ Raam", "hname": "ממשלת ימין של נתניהו עם רע\"מ",
+                                         "parties": [ "p_24_Likud", "p_24_Yamina", "p_24_UTJ", "p_24_Shas", "p_24_Religious_Zionism", "p_24_Raam" ],
+                                         "subsets": {
+										     "p_24_Religious_Zionism": { "name": "w/o Ben Gvir", "hname": "ללא בן גביר", "members": [ 1, 2, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 ] } } },
+        "c_24_netanyahu_saar_bennett": { "name": "Netanyahu-Sa'ar-Bennett", "hname": "נתניהו-סער-בנט",
+                                         "parties": [ "p_24_Likud", "p_24_New_Hope", "p_24_Yamina", "p_24_UTJ", "p_24_Shas", "p_24_Religious_Zionism", "p_24_Blue_White" ],
+                                         "subsets": {
+										     "p_24_Religious_Zionism": { "name": "w/o Ben Gvir", "hname": "ללא בן גביר", "members": [ 1, 2, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 ] } } },
+        "c_24_lapid_saar_bennett":     { "name": "Lapid-Saar-Bennett", "hname": "לפיד-סער-בנט",
+                                         "parties": [ "p_24_Yesh_Atid", "p_24_New_Hope", "p_24_Yamina", "p_24_Yisrael_Beitenu", "p_24_Labor", "p_24_Religious_Zionism", "p_24_Blue_White" ],
+                                         "subsets": {
+										     "p_24_Religious_Zionism": { "name": "w/o Ben Gvir", "hname": "ללא בן גביר", "members": [ 1, 2, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 ] } } },
+        "c_24_lapid_left":             { "name": "Lapid Left-Wing Gov't", "hname": "ממשלת שמאל של לפיד",
+                                         "parties": [ "p_24_Yesh_Atid", "p_24_Blue_White", "p_24_Yisrael_Beitenu", "p_24_Labor", "p_24_Meretz", "p_24_Joint_List", "p_24_Raam" ] }
+      },
+      "polls": [{
+        "type": "google-sheets",
+        "key": "1lqqrIp_sXir_Sz_H_y3mCvOaXGc_lmSsPaD-Y0C9eBk",
+        "worksheet": "raw_data_2021",
+        "method": "deduce",
+        "total_seats": 120,
+        "others_col": "p_24_Others",
+        "others_full": 0.03,
+        "others_min": 0.01,
+        "default_num_polled": 400,
+        "threshold": 0.0325
+      }],
+      "surplus_agreements": [
+        { "name1": "p_23_Likud",                 "name2": "p_24_Religious_Zionism", "since": "10/02/2021" },
+        { "name1": "p_24_Yamina",                "name2": "p_24_New_Hope",          "since": "04/01/2021" },
+        { "name1": "p_24_Yesh_Atid",             "name2": "p_24_Yisrael_Beitenu",   "since": "04/01/2021" },
+        { "name1": "p_24_Blue_White",            "name2": "p_24_New_Economy",       "since": "07/02/2021" },
+        { "name1": "p_24_Labor",                 "name2": "p_24_Meretz",            "since": "11/02/2021" },
+        { "name1": "p_24_Shas",                  "name2": "p_24_UTJ",               "since": "08/03/2021" }
+      ],
+      "threshold_percent": 3.25,
+      "election_day": "23/03/2021"
     }
   }
 }
